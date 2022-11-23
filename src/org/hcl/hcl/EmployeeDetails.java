@@ -6,6 +6,7 @@ public class EmployeeDetails {
 	}
 	public void EmpName() {
 		System.out.println("Employee name is");
+		System.out.println("new added deepiti");
 	}
 
 }
