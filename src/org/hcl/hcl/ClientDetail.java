@@ -8,6 +8,7 @@ public class ClientDetail extends CompanyDetails {
 		System.out.println("Client name is");
 	}
 	public static void main(String[] args) {
+		System.out.println("my brach is pradeep");
 		ClientDetail cli = new ClientDetail();
 		cli.ClientId();
 		cli.ClientName();
